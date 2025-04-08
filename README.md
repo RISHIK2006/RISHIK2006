@@ -57,14 +57,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-#### 📚 Coursework
-> Data Structures, Algorithms, Database Management, Operating Systems, Object-Oriented Programming (OOPs)
-
-#### 💬 Soft Skills
-> Public Speaking, Team Management, Networking, Problem Solving, Leadership, Creativity
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
