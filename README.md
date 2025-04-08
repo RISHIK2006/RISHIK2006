@@ -1,33 +1,67 @@
 <h1 align="center">Hi 👋, I'm K Rishik Kumar Reddy</h1>
-<h3 align="center">A Passionate Full-Stack Developer, Data Analyst & AI Enthusiast</h3>
+<h3 align="center">A Passionate Full-Stack Developer & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Web+Developer+%7C+DBMS+Proficient;Data+Analysis+Expert;Cybersecurity+Learner;AI+in+Healthcare+Researcher&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;MERN+Stack+Developer;Cybersecurity+Learner;AI+in+Healthcare+Researcher&center=true&width=500&height=45">
 </p>
 
 ---
 
 - 🔭 I’m currently working on **AI-Powered Personalized Learning Platforms**
-- 💡 Skilled in **Web Development**, **Data Analysis**, and **Database Management Systems**
-- 🌱 I’m expanding my expertise in **Blockchain, Cloud Security, and Advanced Analytics**
-- 👨‍💻 Explore my work: [My Portfolio](https://ubiquitous-clafoutis-ac5f94.netlify.app/)
-- 📫 Reach me at: **reddyrishik2004@gmail.com**
-- 💼 Connect with me: [LinkedIn](https://www.linkedin.com/in/rishik-kumar-reddy-k-6a4b6a262/)
+- 🌱 I’m learning **Blockchain, Data Analytics, and Cloud Security**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ubiquitous-clafoutis-ac5f94.netlify.app/)
+- 📫 How to reach me: **reddyrishik2004@gmail.com**
+- 💼 LinkedIn: [Rishik Kumar Reddy](https://www.linkedin.com/in/rishik-kumar-reddy-k-6a4b6a262/)
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+#### 🧠 Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+#### 📈 Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PySpark-E34A26?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
+
+#### ⚙️ Frameworks & Libraries
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
+
+#### 🛠️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+#### 📚 Coursework
+> Data Structures, Algorithms, Database Management, Operating Systems, Object-Oriented Programming (OOPs)
+
+#### 💬 Soft Skills
+> Public Speaking, Team Management, Networking, Problem Solving, Leadership, Creativity
 
 ---
 
@@ -54,5 +88,4 @@
   <a href="mailto:reddyrishik2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rishik-kumar-reddy-k-6a4b6a262/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/RISHIK2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://ubiquitous-clafoutis-ac5f94.netlify.app/"><img src="https://img.shields.io/badge/Visit%20Portfolio-00C853?style=for-the-badge&logo=web&logoColor=white"></a>
 </p>
